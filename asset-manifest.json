@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "Alvaradox356.github.io/tictactoe/static/css/main.3fa7586b.chunk.css",
+    "main.js": "Alvaradox356.github.io/tictactoe/static/js/main.bff8887a.chunk.js",
+    "main.js.map": "Alvaradox356.github.io/tictactoe/static/js/main.bff8887a.chunk.js.map",
+    "runtime-main.js": "Alvaradox356.github.io/tictactoe/static/js/runtime-main.e5742fa9.js",
+    "runtime-main.js.map": "Alvaradox356.github.io/tictactoe/static/js/runtime-main.e5742fa9.js.map",
+    "static/js/2.83a1039e.chunk.js": "Alvaradox356.github.io/tictactoe/static/js/2.83a1039e.chunk.js",
+    "static/js/2.83a1039e.chunk.js.map": "Alvaradox356.github.io/tictactoe/static/js/2.83a1039e.chunk.js.map",
+    "index.html": "Alvaradox356.github.io/tictactoe/index.html",
+    "precache-manifest.f8513bff9602841382d9ac4f3205c1ed.js": "Alvaradox356.github.io/tictactoe/precache-manifest.f8513bff9602841382d9ac4f3205c1ed.js",
+    "service-worker.js": "Alvaradox356.github.io/tictactoe/service-worker.js",
+    "static/css/main.3fa7586b.chunk.css.map": "Alvaradox356.github.io/tictactoe/static/css/main.3fa7586b.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5742fa9.js",
+    "static/js/2.83a1039e.chunk.js",
+    "static/css/main.3fa7586b.chunk.css",
+    "static/js/main.bff8887a.chunk.js"
+  ]
+}
